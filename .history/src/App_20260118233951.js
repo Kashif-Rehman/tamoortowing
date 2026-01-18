@@ -85,10 +85,10 @@ export default function App() {
       <div id="home"><Header /></div>
       
       {/* Trust Indicators */}
-      <div id="trust"><TrustBadges /></div>
+      <div id="trustBadges"><TrustBadges /></div>
       
       {/* Image Gallery */}
-      <div id="gallery"><ImageSlider /></div>
+      <div id="slider"><ImageSlider /></div>
       
       {/* Call-to-Action Banner */}
       <div id="cta"><CTABanner /></div>
@@ -100,7 +100,7 @@ export default function App() {
       <div id="why"><WhyChooseUs /></div>
       
       {/* Service Coverage Areas */}
-      <div id="areas"><ServiceAreas /></div>
+      <div id="serviceAreas"><ServiceAreas /></div>
       
       {/* Customer Testimonials */}
       <div id="feedback"><Feedback /></div>

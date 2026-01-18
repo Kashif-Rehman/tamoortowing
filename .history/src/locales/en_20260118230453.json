@@ -1,0 +1,245 @@
+{
+  "header": {
+    "title": "Taimoor Towing Services – Reliable Tow Truck in Khobar",
+    "subtitle": "Your trusted 24/7 towing partner based in Khobar, providing services across and towards Dammam, Dhahran, Aziziyah, Thuqbah, Jubail, Riyadh, Jeddah, and Madina. We offer fast, safe, and professional flatbed (سطحة) towing and vehicle recovery whenever you need help on the road."
+  },
+
+  "contact": {
+    "title": "Contact Us",
+    "call": "Call Now",
+    "phone": "+966507688086",
+    "phone1": "+966555632801",
+    "whatsapp": "966507688086",
+    "whatsapp1": "966555632801",
+    "email": "info@satahalfaraj.com",
+    "company": "Taimoor Towing Services",
+    "address": "Khobar, Saudi Arabia – 24/7 Tow Truck (سطحة) Assistance from Dammam, Aziziyah, Thuqbah & Dhahran"
+  },
+
+  "nav": {
+    "home": "Home",
+    "trust": "Trust",
+    "gallery": "Gallery",
+    "services": "Services",
+    "areas": "Service Areas",
+    "why": "Why Us",
+    "location": "Location",
+    "feedback": "Feedback",
+    "faq": "FAQ",
+    "blog": "Resources",
+    "team": "Team",
+    "contact": "Contact"
+  },
+
+  "cta": {
+    "title": "Need Towing Right Now?",
+    "subtitle": "We're available 24/7 across Khobar, Dammam, Dhahran & beyond",
+    "callNow": "Call: 0507688086",
+    "whatsapp": "WhatsApp Us",
+    "note": "⚡ Average response time: 10-15 minutes"
+  },
+
+  "trustBadges": {
+    "licensed": {
+      "title": "Licensed & Insured",
+      "desc": "Fully certified towing service"
+    },
+    "experienced": {
+      "title": "10+ Years Experience",
+      "desc": "Expert drivers you can trust"
+    },
+    "customers": {
+      "title": "1000+ Happy Customers",
+      "desc": "Serving the Eastern Province"
+    },
+    "response": {
+      "title": "10-Min Response",
+      "desc": "Fast arrival guaranteed"
+    }
+  },
+
+  "whyChooseUs": {
+    "title": "Why Choose Taimoor Towing Services",
+    "emergency": {
+      "title": "🚨 Always Ready for Emergencies",
+      "desc": "At Taimoor Towing, we operate 24/7 from Khobar and nearby areas, specifically Dammam, Aziziyah, Thuqbah, and Dhahran. Whether it's a breakdown or accident, our response team arrives quickly and safely to assist you."
+    },
+    "experienced": {
+      "title": "👨‍🔧 Experienced and Professional Drivers",
+      "desc": "Our team consists of certified, highly skilled drivers who have years of experience handling vehicles of all sizes — from compact cars to heavy-duty SUVs. Using modern flatbed سطحة trucks, they ensure your car is loaded, secured, and transported safely without any damage."
+    },
+    "affordable": {
+      "title": "💰 Affordable and Transparent Pricing",
+      "desc": "We provide honest, upfront pricing with no hidden fees. Our towing rates are competitive across Khobar and nearby areas, ensuring you receive premium service at a reasonable cost."
+    },
+    "coverage": {
+      "title": "🌍 Local & Intercity Coverage",
+      "desc": "We operate from Khobar (Dammam, Aziziyah, Thuqbah, Dhahran) and provide towing services to other major cities across Saudi Arabia."
+    },
+    "trust": {
+      "title": "⭐ Trusted by Customers All Over Saudi Arabia",
+      "desc": "Our clients trust us for punctual service, skilled drivers, and professional handling, ensuring every job is done right."
+    }
+  },
+
+  "services": {
+    "title": "Our Professional Towing Services in Khobar & Beyond",
+    "subtitle": "We operate from Khobar (Dammam, Aziziyah, Thuqbah, Dhahran) and provide professional towing services to Jubail, Riyadh, Jeddah, and Madina.",
+
+    "emergencyTowing": {
+      "title": "🚗 24/7 Emergency Towing Service",
+      "desc": "Round-the-clock emergency towing from Khobar and nearby areas. Our professional tow trucks arrive swiftly to transport your vehicle safely to your desired location."
+    },
+
+    "accidentRecovery": {
+      "title": "⚠️ Accident Recovery & Vehicle Rescue",
+      "desc": "Professional recovery for accident-damaged vehicles using modern flatbed trucks. We handle everything from minor collisions to major accidents with care and expertise."
+    },
+
+    "longDistanceTow": {
+      "title": "🛣️ Long-Distance & Intercity Towing",
+      "desc": "Safe long-distance towing from Khobar (Dammam, Aziziyah, Thuqbah, Dhahran) to other major cities in Saudi Arabia including Riyadh, Jeddah, and Madina."
+    },
+
+    "specialTowing": {
+      "title": "🚘 Luxury & Exotic Vehicle Towing",
+      "desc": "Special care for luxury, sports, and classic vehicles using soft straps and high-end flatbed systems. Your premium vehicle deserves premium handling."
+    }
+  },
+
+  "serviceAreas": {
+    "title": "Areas We Serve - Taimoor Towing Coverage",
+    "subtitle": "Professional towing services across Eastern Province, Saudi Arabia",
+    "responseTime": "10-20 min response",
+    "available247": "Available 24/7",
+    "note": "We also provide long-distance towing to Riyadh, Jeddah, and Madina. Call us for a quote!",
+    "areas": [
+      {
+        "city": "Khobar (الخبر)",
+        "description": "Our main base with fastest response time. Complete coverage of Al Khobar, Corniche area, and all surrounding districts. Average response time: 10-15 minutes."
+      },
+      {
+        "city": "Dammam (الدمام)",
+        "description": "Full coverage across all neighborhoods including Al Faisaliyah, Al Shati, and Al Mazruiyah. 15-20 minute average response time."
+      },
+      {
+        "city": "Dhahran (الظهران)",
+        "description": "Serving Dhahran including KFUPM area, Aramco compounds, and all residential zones."
+      },
+      {
+        "city": "Jubail (الجبيل)",
+        "description": "Industrial and residential Jubail coverage. Available for both emergency and scheduled towing."
+      },
+      {
+        "city": "Qatif (القطيف)",
+        "description": "Full coverage of Qatif and surrounding areas including Safwa and Tarout Island."
+      },
+      {
+        "city": "Ras Tanura (رأس تنورة)",
+        "description": "Specialized service for Ras Tanura port area and residential compounds."
+      }
+    ]
+  },
+
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Quick answers to common questions about our towing services",
+    "questions": [
+      {
+        "question": "How fast can you arrive?",
+        "answer": "Within Khobar, we typically arrive in 10-20 minutes. For nearby areas like Dammam and Dhahran, response time is 15-25 minutes. For other areas like Jubail or Qatif, response time is 30-45 minutes depending on your exact location."
+      },
+      {
+        "question": "What types of vehicles do you tow?",
+        "answer": "We handle all vehicle types: sedans, SUVs, trucks, luxury cars, sports cars, and even motorcycles. Our flatbed سطحة trucks ensure safe transport for any vehicle."
+      },
+      {
+        "question": "Do you operate 24/7?",
+        "answer": "Yes! Taimoor Towing Services operates 24 hours a day, 7 days a week, including holidays. We're always ready to help you."
+      },
+      {
+        "question": "How much does towing cost?",
+        "answer": "Pricing depends on distance and vehicle type. Local towing within Khobar area starts from competitive rates. Call us for an exact quote - we provide transparent pricing with no hidden fees."
+      },
+      {
+        "question": "Can you tow to other cities?",
+        "answer": "Absolutely! We provide long-distance towing from Khobar to Riyadh, Jeddah, Madina, and other major Saudi cities. Contact us for rates and scheduling."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept cash, credit/debit cards, and bank transfers for your convenience."
+      },
+      {
+        "question": "Do you tow vehicles after accidents?",
+        "answer": "Yes! We specialize in accident recovery and can safely tow damaged vehicles. Our experienced drivers handle accident situations with care and professionalism."
+      },
+      {
+        "question": "Is my vehicle insured during towing?",
+        "answer": "Yes, we are fully licensed and insured. Your vehicle is protected throughout the entire towing process."
+      }
+    ]
+  },
+
+  "blog": {
+    "title": "Helpful Resources & Tips",
+    "subtitle": "Learn more about vehicle safety and towing in Saudi Arabia",
+    "readMore": "Read More",
+    "posts": [
+      {
+        "title": "5 Signs Your Car Needs Immediate Towing",
+        "excerpt": "Learn the warning signs that indicate you should call for professional towing service rather than attempting to drive your vehicle.",
+        "date": "November 2024"
+      },
+      {
+        "title": "What To Do After a Car Accident in Khobar",
+        "excerpt": "A complete guide on steps to take after an accident, including how to safely arrange towing and document damage for insurance.",
+        "date": "October 2024"
+      },
+      {
+        "title": "How to Choose a Reliable Towing Service",
+        "excerpt": "Essential factors to consider when selecting a towing company in Eastern Province - licensing, response time, equipment, and pricing.",
+        "date": "September 2024"
+      }
+    ]
+  },
+
+  "feedback": {
+    "title": "Customer Feedback",
+    "reviews": [
+      {
+        "comment": "Excellent towing service in Khobar! They arrived within 15 minutes and handled my car professionally.",
+        "author": "Ahmed Khan"
+      },
+      {
+        "comment": "Very reliable and affordable. The driver was polite and kept me updated until the job was done.",
+        "author": "Saad Al Otaibi"
+      },
+      {
+        "comment": "I was stuck near the Khobar Corniche late at night. Taimoor Towing came quickly and safely transported my SUV.",
+        "author": "Mansoor Rahman"
+      }
+    ]
+  },
+
+  "team": {
+    "title": "Our Professional Tow Truck Team",
+    "members": [
+      {
+        "name": "👨‍🔧 Taimoor Qayyum",
+        "role": "Expert Tow Truck Driver – Specialist in Long-Distance and Emergency Towing",
+        "phone": "+966507688086",
+        "whatsapp": "966507688086"
+      }
+    ]
+  },
+
+  "location": {
+    "title": "Our Location in Khobar – Near You",
+    "desc": "We're based in Khobar, allowing us to reach nearby areas like Dammam, Aziziyah, Thuqbah, and Dhahran quickly, and provide towing services to Jubail, Riyadh, Jeddah, and Madina."
+  },
+
+  "seo": {
+    "metaTitle": "Taimoor Towing – Khobar | 0507688086 | 24/7 Tow Truck Service",
+    "metaDescription": "Taimoor Towing provides 24/7 flatbed towing and vehicle recovery from Khobar (Dammam, Aziziyah, Thuqbah, Dhahran) to Jubail, Riyadh, Jeddah, and Madina. Fast, safe, and professional service."
+  }
+}

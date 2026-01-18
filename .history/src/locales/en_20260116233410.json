@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "areas": "Service Areas",
+    "why": "Why Choose Us",
+    "feedback": "Reviews",
+    "faq": "FAQ",
+    "team": "Our Team",
+    "contact": "Contact"
+  },
+  "header": {
+    "title": "24/7 Emergency Towing Service",
+    "subtitle": "Fast, Reliable Towing Services When You Need Us Most"
+  },
+  "contact": {
+    "phone": "+1-234-567-8900",
+    "phone1": "+1-234-567-8901",
+    "email": "info@tamoortowing.com",
+    "whatsapp": "1234567890",
+    "call": "Call Now"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Professional towing and roadside assistance",
+    "list": [
+      {
+        "title": "Emergency Towing",
+        "description": "24/7 emergency towing service"
+      },
+      {
+        "title": "Roadside Assistance",
+        "description": "Quick help when you're stranded"
+      },
+      {
+        "title": "Vehicle Transport",
+        "description": "Safe and secure vehicle transportation"
+      }
+    ]
+  },
+  "serviceAreas": {
+    "title": "Service Areas",
+    "subtitle": "We serve the entire region with fast response times",
+    "responseTime": "Fast Response Time",
+    "available247": "Available 24/7",
+    "note": "Don't see your area? Call us anyway - we may still be able to help!",
+    "areas": [
+      {
+        "name": "Downtown",
+        "coverage": "Full Coverage"
+      },
+      {
+        "name": "Suburbs",
+        "coverage": "Full Coverage"
+      },
+      {
+        "name": "Highway",
+        "coverage": "24/7 Service"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Why Choose Us",
+    "subtitle": "The best towing service in town",
+    "reasons": [
+      {
+        "title": "Fast Response",
+        "description": "Average response time under 30 minutes"
+      },
+      {
+        "title": "Professional Team",
+        "description": "Experienced and certified drivers"
+      },
+      {
+        "title": "Fair Pricing",
+        "description": "Transparent pricing with no hidden fees"
+      }
+    ]
+  },
+  "trustBadges": {
+    "licensed": {
+      "title": "Licensed & Insured",
+      "desc": "Fully licensed and insured for your peace of mind"
+    },
+    "experienced": {
+      "title": "15+ Years Experience",
+      "desc": "Over a decade of professional towing service"
+    },
+    "customers": {
+      "title": "10,000+ Happy Customers",
+      "desc": "Trusted by thousands of satisfied clients"
+    },
+    "response": {
+      "title": "30 Min Response Time",
+      "desc": "Fast arrival when you need us most"
+    }
+  },
+  "feedback": {
+    "title": "Customer Reviews",
+    "subtitle": "What our customers say about us",
+    "reviews": [
+      {
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Excellent service! They arrived quickly and handled my car with care."
+      },
+      {
+        "name": "Jane Smith",
+        "rating": 5,
+        "comment": "Professional and affordable. Highly recommended!"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about our services",
+    "questions": [
+      {
+        "question": "How quickly can you arrive?",
+        "answer": "Our average response time is under 30 minutes, but it can vary based on your location and traffic conditions."
+      },
+      {
+        "question": "What forms of payment do you accept?",
+        "answer": "We accept cash, credit cards, and debit cards for your convenience."
+      },
+      {
+        "question": "Do you provide 24/7 service?",
+        "answer": "Yes! We're available 24 hours a day, 7 days a week, including holidays."
+      },
+      {
+        "question": "How much does towing cost?",
+        "answer": "Pricing varies based on distance and vehicle type. Call us for a free quote!"
+      }
+    ]
+  },
+  "blog": {
+    "title": "Latest Blog Posts",
+    "subtitle": "Tips and news from our team",
+    "readMore": "Read More",
+    "posts": [
+      {
+        "title": "Essential Car Maintenance Tips",
+        "excerpt": "Learn how to keep your vehicle in top condition and avoid breakdowns.",
+        "date": "2026-01-15"
+      },
+      {
+        "title": "What to Do When Your Car Breaks Down",
+        "excerpt": "A step-by-step guide to staying safe when you're stranded on the road.",
+        "date": "2026-01-10"
+      },
+      {
+        "title": "Choosing the Right Towing Service",
+        "excerpt": "Key factors to consider when selecting a towing company.",
+        "date": "2026-01-05"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Need Towing Service Right Now?",
+    "subtitle": "We're here to help 24/7. Call or message us!",
+    "callNow": "Call Now",
+    "whatsapp": "WhatsApp",
+    "note": "Average response time: 30 minutes or less"
+  },
+  "team": {
+    "title": "Meet Our Team",
+    "members": [
+      {
+        "name": "Mike Johnson",
+        "role": "Lead Operator",
+        "experience": "10+ years"
+      },
+      {
+        "name": "Sarah Williams",
+        "role": "Dispatcher",
+        "experience": "5+ years"
+      }
+    ]
+  },
+  "location": {
+    "title": "Our Location",
+    "desc": "Visit us or call for immediate assistance"
+  }
+}

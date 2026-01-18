@@ -36,12 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.rtl {
-  direction: rtl;
-  text-align: right;
-}
-
-html {
-  scroll-behavior: smooth;
-}

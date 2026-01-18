@@ -2,16 +2,12 @@ import React, { useState, useEffect } from 'react';
 import Header from './components/Header';
 import WhyChooseUs from './components/WhyChooseUs';
 import Services from './components/Services';
-import ServiceAreas from './components/ServiceAreas';
 import Feedback from './components/Feedback';
 import Team from './components/Team';
-import Blog from './components/Blog';
 import Contact from './components/Contact';
 import Location from './components/Location';
 import ImageSlider from './components/ImageSlider';
-import FAQ from './components/FAQ';
 import CTABanner from './components/CTABanner';
-import TrustBadges from './components/TrustBadges';
 import styles from './App.module.css';
 import './App.css';
 import './i18n';
@@ -19,7 +15,7 @@ import { useTranslation } from 'react-i18next';
 import Navbar from './components/Navbar';
 
 export default function App() {
-  const { i18n, t } = useTranslation();
+  const { i18n } = useTranslation();
 
   const [darkMode, setDarkMode] = useState(() => {
     const saved = localStorage.getItem('darkMode');
@@ -39,10 +35,6 @@ export default function App() {
     i18n.changeLanguage(language);
     document.documentElement.dir = language === 'ar' ? 'rtl' : 'ltr';
   }, [language, i18n]);
-
-  // Get phone and WhatsApp from translation files
-  const phone = t('contact.phone');
-  const whatsapp = t('contact.whatsapp');
 
   return (
     <div className={`${styles.app} ${darkMode ? styles.dark : ''}`}>
@@ -79,69 +71,38 @@ export default function App() {
         )}
       </div>
 
-      {/* Page sections - Professional Layout */}
-      
-      {/* Hero Section */}
+      {/* Page sections */}
       <div id="home"><Header /></div>
-      
-      {/* Trust Indicators */}
-      <div id="trust"><TrustBadges /></div>
-      
-      {/* Image Gallery */}
-      <div id="gallery"><ImageSlider /></div>
-      
-      {/* Call-to-Action Banner */}
+      <div id="slider"><ImageSlider /></div>
       <div id="cta"><CTABanner /></div>
-      
-      {/* Services Section */}
       <div id="services"><Services /></div>
-      
-      {/* Why Choose Us */}
       <div id="why"><WhyChooseUs /></div>
-      
-      {/* Service Coverage Areas */}
-      <div id="areas"><ServiceAreas /></div>
-      
-      {/* Customer Testimonials */}
-      <div id="feedback"><Feedback /></div>
-      
-      {/* Frequently Asked Questions */}
-      <div id="faq"><FAQ /></div>
-      
-      {/* Our Team */}
-      <div id="team"><Team /></div>
-      
-      {/* Location & Map */}
       <div id="location"><Location /></div>
-      
-      {/* Resources & Blog */}
-      <div id="blog"><Blog /></div>
-      
-      {/* Contact Information */}
+      <div id="feedback"><Feedback /></div>
+      <div id="team"><Team /></div>
       <div id="contact"><Contact /></div>
 
-      {/* Floating action buttons */}
+      {/* Call & WhatsApp */}
       <a 
-        href={`tel:${phone}`}
+        href="tel:0536121365" 
         className={styles.floatingCall}
-        aria-label={t('contact.call')}
+        aria-label="Call Al Faraj Towing"
       >
-        📞 {t('contact.call')}
+        📞 Call Now
       </a>
       
       <a
-        href={`https://wa.me/${whatsapp}`}
+        href="https://wa.me/966536121365"
         target="_blank"
         rel="noopener noreferrer"
         className={styles.floatingWhatsApp}
-        aria-label={language === 'ar' ? 'محادثة عبر واتساب' : 'Chat on WhatsApp'}
+        aria-label="Chat on WhatsApp"
       >
-        💬 {language === 'ar' ? 'واتساب' : 'WhatsApp'}
+        💬 Chat on WhatsApp
       </a>
 
-      {/* Footer with translation */}
       <footer className={styles.footer}>
-        © {new Date().getFullYear()} {t('footer.copyright')}
+        © {new Date().getFullYear()} Al Faraj Towing Services. All Rights Reserved.
       </footer>
     </div>
   );
