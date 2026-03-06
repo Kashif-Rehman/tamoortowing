@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+}
+
+.rtl {
+  direction: rtl;
+  text-align: right;
+}
+
+html, body {
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  /* Arabic-first font stack for Saudi audience */
+  font-family: 'Tajawal', 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* Arabic content should use Tajawal primarily */
+[dir="rtl"] body,
+[lang="ar"] body {
+  font-family: 'Tajawal', 'Cairo', 'Noto Kufi Arabic', Arial, sans-serif;
+}
+
+/* Performance: reduce layout shift */
+img, video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Lazy-load images with smooth reveal */
+img[loading="lazy"] {
+  opacity: 1;
+  transition: opacity 0.3s;
+}
+
+/* Phone numbers always LTR */
+a[href^="tel:"],
+a[href^="https://wa.me"] {
+  direction: ltr;
+  unicode-bidi: embed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Critical: reduce CLS by reserving space */
+.swiper {
+  min-height: 280px;
+}
+
+/* Optimize paint for animations */
+.swiper-slide {
+  will-change: transform;
+}
+
+/* Lazy section loading spinner */
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
